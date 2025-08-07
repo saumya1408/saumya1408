@@ -1,117 +1,106 @@
-👋 Welcome to My GitHub Universe! 🚀
-Hi, I'm Saumya Thakor, an aspiring AI/ML Engineer passionate about building intelligent systems that solve real-world problems. With a strong foundation in Machine Learning, Deep Learning, Computer Vision, and Natural Language Processing, I love turning ideas into scalable, innovative solutions. Explore my projects, skills, and contributions below! 🌟
+<h1 align="center">Hi 👋, I'm Saumya Thakor</h1>
+<h3 align="center">Aspiring AI/ML Engineer | M.Tech @ IIITM Gwalior | Passionate about Intelligent Systems & Real-World Problem Solving</h3>
 
-🌟 About Me
+<p align="center">
+  <a href="mailto:saumyathakor2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/saumyathakor"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/saumya1408"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
-🎓 Master of Technology in Information TechnologyABV-Indian Institute of Information Technology and Management, Gwalior | CGPA: 8.74July 2024 – May 2026
-🎓 Bachelor of Technology in Computer Science EngineeringPandit Deendayal Energy University, Gandhinagar | CGPA: 9.39August 2020 – May 2024
-📍 Based in Gwalior, Madhya Pradesh
-📧 Reach me at: saumyathakor2003@gmail.com
-🔗 Connect with me: LinkedIn | Portfolio | GitHub
+---
 
-I specialize in Python, PyTorch, TensorFlow, and more, with a knack for creating impactful projects in AI, ML, and Computer Vision. My mission? To craft intelligent, efficient, and user-friendly systems that make a difference! 💻
+### 🚀 About Me
 
-🛠️ Technical Skills
+🎓 I’m currently pursuing my **M.Tech in Information Technology** from **IIITM Gwalior** (CGPA: 8.74)  
+🎓 Completed my **B.Tech in Computer Science Engineering (Data Science)** from **PDEU Gandhinagar** (CGPA: 9.39)  
+🧠 I'm deeply passionate about **AI/ML, Deep Learning, Computer Vision, NLP**, and **LLMs**  
+🛠️ Skilled in **Python**, **PyTorch**, **TensorFlow**, **OpenCV**, **Flask**, **SQL**, **Docker**  
+📈 I love building real-world applications and pushing the boundaries of intelligent systems
 
+---
 
+### 🧠 Key Projects
 
-Category
-Skills
+- 🔮 **[Oblivion – Conversational AI Chatbot](https://github.com/saumya1408/Chatbot)**  
+  Fine-tuned Qwen1.8B using QLoRA on Alpaca for real-time, scalable NLP chatbot with FastAPI + UI  
+  > _Transformers · LLMs · QLoRA · FastAPI · Streaming Token Generation_
 
+- 📉 **[NSE Stock Price Prediction System](https://github.com/saumya1408/NSE-Prediction-System)**  
+  Built hybrid CNN-LSTM deep learning model for noise-aware stock forecasting with real-time analytics  
+  > _PyTorch · Deep Learning · Scikit-learn · 2000+ Stock Support_
 
+- 🧳 **[LLM Travel Planner](https://github.com/saumya1408)**  
+  Flask-based Groq LLM backend generating intelligent, personalized multi-day itineraries  
+  > _Groq · NLP · Flask · User-Centric Planning_
 
-Languages
-Python, SQL
+- 🚗 **[Automatic Number Plate Recognition System (ANPR)](https://github.com/saumya1408/anpr)**  
+  Real-time license plate detection with EasyOCR & OpenCV; processed under 2 seconds  
+  > _Computer Vision · OCR · Flask · OpenCV_
 
+- 📊 **[Spectral Clustering Research](https://github.com/saumya1408/Improving-Spectral-Clustering-Scalability-Through-Intelligent-Sampling-Methods)**  
+  Presented at **EAI Body Area Networks Conference @ IIT BHU**  
+  Published by **Springer**, focused on scalable spectral clustering via intelligent sampling  
+  > _Research · Springer Author · Large-Scale Clustering · Python_
 
-Frameworks/Tools
-PyTorch, TensorFlow, Scikit-learn, OpenCV, Flask, FastAPI, Docker, Git
+---
 
+### 🧑‍💻 Work & Internships
 
-Visualization
-Tableau, Power BI
+- **ML Intern @ Inrainz** *(Jun 2023 – Aug 2023)*  
+  ▶ Worked on Fraud Payment Detection using advanced ML algorithms  
+- **IT Support Intern @ Chem Process System, Ahmedabad** *(Apr 2024 – Jul 2024)*  
+  ▶ Managed server ops, system maintenance & internal IT support
 
+---
 
-Domains
-Machine Learning, Deep Learning, Computer Vision, NLP, LLMs, Transformers
+### 🛠️ Technical Toolbox
 
+- **Languages:** Python, SQL  
+- **ML/DL:** PyTorch, Scikit-learn, TensorFlow, NLP, Computer Vision  
+- **Frameworks:** Flask, FastAPI  
+- **Tools:** Docker, Git, Tableau, Power BI, OpenCV, EasyOCR  
+- **Others:** LLMs, CNN-LSTM models, Spectral Clustering
 
+---
 
-🚀 Featured Projects
-Oblivion – Fine-Tuned Conversational AI Chatbot
-June 2025 | NLP, LLMs, Transformers  
+### 📚 Certifications
 
-Built a scalable conversational AI using Qwen1.8B with streaming token generation for real-time responses.  
-Fine-tuned with QLoRA on the Alpaca dataset for efficient GPU-based inference.  
-Powered by a FastAPI backend with a responsive UI for intelligent query handling.🔗 View Repository
+- [✔️ Data Visualization with Python – Coursera](#)  
+- [✔️ Tableau for Beginners – Pawan Lalwani](#)
 
-NSE Stock Price Prediction System
-May 2025 | Deep Learning, PyTorch, Scikit-learn  
+---
 
-Developed a hybrid CNN-LSTM model for robust stock price forecasting.  
-Designed a modular pipeline for real-time data ingestion and evaluation.  
-Created an interactive dashboard for analytics and forecasting across 2000+ stocks.🔗 View Repository
+### 🌱 Currently Working On
 
-LLM-Powered AI Travel Planner
-February 2025 | Groq LLM, Python, Flask, NLP  
+- 🧠 Research in **AI Load Balancing in IoT**  
+- 🌐 Building AI-powered apps for **Vision Systems** and **Edge Devices**
 
-Built a Flask backend with Groq LLM to generate personalized multi-day travel itineraries.  
-Integrated user preferences like destination, budget, and duration for tailored outputs.  
-Live Demo🔗 View Repository
+---
 
-Automatic Number Plate Recognition System
-November 2023 | OpenCV, OCR, Computer Vision  
+### 📈 GitHub Stats
 
-Engineered a real-time pipeline using OpenCV and EasyOCR for license plate detection and text extraction in under 2 seconds.  
-Deployed as a Flask-based app for seamless integration.  
-Live Demo🔗 View Repository
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saumya1408&show_icons=true&theme=radical" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumya1408&layout=compact&theme=radical" height="165">
+</p>
 
+---
 
-💼 Experience
-IT Support Intern
-Chem Process System, Ahmedabad | April 2024 – July 2024  
+### 🔗 Featured Repositories
 
-Maintained servers and performed software system maintenance for smooth IT operations.
+| Repository | Tech Stack | Description |
+|-----------|------------|-------------|
+| [Oblivion Chatbot](https://github.com/saumya1408/Chatbot) | QLoRA, Transformers, FastAPI | Fine-tuned LLM for conversational AI |
+| [NSE Prediction System](https://github.com/saumya1408/NSE-Prediction-System) | CNN-LSTM, PyTorch, Scikit-learn | Forecasting 2000+ stock prices |
+| [ANPR System](https://github.com/saumya1408/anpr) | OpenCV, OCR, Flask | Real-time number plate recognition |
+| [Spectral Clustering Research](https://github.com/saumya1408/Improving-Spectral-Clustering-Scalability-Through-Intelligent-Sampling-Methods) | Python, ML | Springer-published scalable ML method |
 
-Machine Learning Intern
-Inrainz, Remote | June 2023 – August 2023  
+---
 
-Contributed to a Fraud Payment Detection project using advanced ML algorithms.  
-Gained hands-on experience in industry-level ML workflows.
-
-
-🏆 Achievements & Certifications
-
-19th EAI International Conference on Body Area Networks, IIT BHU | December 2024  
-Presented and authored a paper on Improving Spectral Clustering Scalability Through Intelligent Sampling Methods.  
-Accepted for publication by Springer.  
-View Certificate
-
-
-Certifications:
-Data Visualization with Python – Coursera | View Credential  
-Tableau Tutorials for Beginners – Pawan Lalwani | View Credential
-
-
-
-
-📚 My Repositories
-Here’s a glimpse of my recent work:  
-
-ML-in-load-balancing-of-IoT-devices | Jupyter Notebook | Updated last week  
-ai-vision-portfolio-pulse | TypeScript | Updated last week  
-anpr_som | Python, MIT License | Updated last week  
-NSE-Prediction-System | Updated 3 weeks ago  
-skin-cancer-detection | Updated 3 weeks ago  
-Fake_news_detection | Jupyter Notebook | Updated 3 weeks ago
-
-🔗 Check out all my repositories here!
-
-🌐 Let’s Connect!
-I’m always excited to collaborate on innovative AI/ML projects or discuss tech trends. Feel free to reach out via:  
-
-📧 Email: saumyathakor2003@gmail.com  
-🔗 LinkedIn: Connect with me  
-🌍 Portfolio: Explore my work
-
-Let’s build the future of AI together! 🚀
+<p align="center">
+  ⚡ “Building intelligent systems with purpose.” ⚡  
+</p>
+<p align="center">
+  🔥 Let's connect and create something amazing!
+</p>
